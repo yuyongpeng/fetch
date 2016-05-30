@@ -11,7 +11,7 @@ from fetchcore.base.fetchbase import FetchBase
 class RssParse(FetchBase):
 
     name = ""
-    
+
     # def __init__(self, title, link, description, published):
     #     super(RssParse, self).__init__(title, link, description, published)
 
@@ -29,10 +29,6 @@ class RssParse(FetchBase):
             print entry.description
             print entry.published
             print entry.published_parsed
-        # print d.feed.title
-        # print d.feed.link
-        # print d.feed.description
-        # print d.feed.published
 
 if __name__ == "__main__":
     url = "http://www.guardian.co.uk/rssfeed/0,,40,00.xml"
