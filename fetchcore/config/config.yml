@@ -1,0 +1,71 @@
+pageparse:
+  website:
+    default:  # 默认匹配项目
+      remove:   # 在匹配的文本中需要删除的内容
+      - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+      - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+    bloomberg.org:  # 这里只能填写一级域名
+    - procotol: "http"
+      domain-reg: "[0-9a-zA-Z]+.bloomberg.org"  # 域名的正则匹配,有可能有定制化的域名
+      path-reg: "/page2/*"                # 路径的正则匹配,不同的目录,页面样式会不同
+      example: "http://123234.bloomberg.org/page2/1232-43212.html?sdf#fdfsdf"
+      content:    # 文本内容的匹配
+        search: "div[id=storytext]"   # 搜索的css匹配,使用python的beautiful soup 处理
+        remove:   # 在匹配的文本中需要删除的内容
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+      img:
+        subcontent: False
+        search: "div[id=storytext]"
+        remove:
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+        type: "tag"
+        tag: "img"
+        attribute: "src"
+      auth:
+        subcontent: False
+        search: "div[id=kk]"
+    - procotol: "https"
+      domain-reg: "[a-zA-Z0-9]+.bloomberg.org"
+      path-reg: "/page/*"
+      example: "https://sqwe42223.bloomberg.org/page/1232-43212.html"
+      content:
+        search: "div[id=storytext]"
+        remove:
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+      img:
+        subcontent: False
+        search: "div[id=storytext]"
+        remove:
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+        type: "tag"
+        tag: "img"
+        attribute: "src"
+      auth:
+        subcontent: False
+        search: "div[id=kk]"
+    bloomberg2.org:
+      procotol: "https"
+      url-reg: "/page/*"
+      content:
+        search: "div[id=storytext]"
+        remove:
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+      img:
+        subcontent: False
+        search: "div[id=storytext]"
+        remove:
+        - {"tag": "div", "attribute": "id", "value": "res[0-9]+", "reg": True}
+        - {"tag": "div", "attribute": "class", "value": "container", "reg": False}
+        type: "tag"
+        tag: "img"
+        attribute: "src"
+      auth:
+        subcontent: False
+        search: "div[id=storytext]"
+
+
