@@ -12,6 +12,9 @@ except ImportError:
 
 """
 """
+# 配置文件的变量, 便于程序的修改
+pageparse = "pageparse"
+website = "website"
 
 
 class YamlConfigParser:
@@ -34,7 +37,7 @@ class YamlConfigParser:
     @staticmethod
     def yaml_load_domain(var_str_yaml, domain, procotol = "http"):
         yml = load(var_str_yaml)
-        yml['pageparse']['website'][domain]
+        yml[pageparse][website][domain]
 
     @staticmethod
     def yaml_getconf_url(var_str_yaml, var_str_url):
@@ -62,7 +65,7 @@ class YamlConfigParser:
         if len(sp_list) <= 1:
             raise UrlError(u"[ %s ] 不是正确的域名,正确的域名使用 '.' 切割后>=2" % hostname)
         first_level_domain = sp_list[-2] + "." + sp_list[-1]
-        domain_analytical_rules = yml['pageparse']['website'][first_level_domain]
+        domain_analytical_rules = yml[pageparse][website][first_level_domain]
         for rule in domain_analytical_rules:
             procotol_reg_compile = re.compile(rule['procotol'])
             if procotol_reg_compile.match(scheme) == None:
@@ -79,6 +82,6 @@ if __name__ == "__main__":
     stream = file('config.yml', 'r')
     #x = load(stream)
     #print x['pageparse']['website']['bloomberg.org']
-    url = "://www.bloomberg.org:8080/page2/test/234-sdf32r-sdf.html?p1=a&p2=2#12345v"
+    url = "http://www.bloomberg.org:8080/page2/test/234-sdf32r-sdf.html?p1=a&p2=2#12345v"
     print YamlConfigParser.yaml_getconf_url(stream, url)
 
