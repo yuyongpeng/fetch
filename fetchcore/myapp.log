@@ -1,0 +1,654 @@
+example01   : INFO     This is info message
+example01   : WARNING  This is warning message
+2016-06-01 16:18:56 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:18:56 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:18:56 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:18:57 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:18:57 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:18:57 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:18:58 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:18:58 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:18:58 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:18:59 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:18:59 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:18:59 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:00 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:00 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:00 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:01 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:01 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:01 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:02 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:02 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:02 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:03 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:03 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:03 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:04 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:04 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:04 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:05 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:05 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:05 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:24 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:24 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:24 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:25 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:25 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:25 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:26 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:26 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:26 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:27 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:27 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:27 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:28 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:28 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:28 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:29 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:29 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:29 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:30 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:30 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:30 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:31 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:31 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:31 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:32 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:32 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:32 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:33 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:33 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:33 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:34 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:34 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:34 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:35 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:35 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:35 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:36 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:36 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:36 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:37 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:37 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:37 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:38 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:38 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:38 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:39 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:39 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:39 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:40 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:40 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:40 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:41 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:41 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:41 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:42 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:42 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:42 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:43 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:43 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:43 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:44 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:44 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:44 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:45 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:45 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:45 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:46 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:46 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:46 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:47 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:47 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:47 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:48 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:48 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:48 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:49 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:49 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:49 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:50 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:50 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:50 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:51 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:51 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:51 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:52 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:52 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:52 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:53 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:53 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:53 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:55 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:55 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:55 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:56 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:56 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:56 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:57 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:57 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:57 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:19:58 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:19:58 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:19:58 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:03 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:03 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:03 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:04 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:04 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:04 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:05 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:05 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:05 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:06 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:06 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:06 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:07 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:07 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:07 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:08 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:08 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:08 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:09 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:09 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:09 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:10 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:10 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:10 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:11 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:11 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:11 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:12 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:12 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:12 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:13 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:13 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:13 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:14 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:14 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:14 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:15 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:15 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:15 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:16 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:16 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:16 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:17 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:17 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:17 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:18 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:18 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:18 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:19 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:19 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:19 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:20 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:20 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:20 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:21 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:21 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:21 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:22 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:22 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:22 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:23 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:23 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:23 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:24 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:24 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:24 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:25 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:25 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:25 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:26 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:26 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:26 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:27 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:27 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:27 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:28 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:28 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:28 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:29 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:29 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:29 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:30 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:30 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:30 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:31 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:31 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:31 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:32 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:32 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:32 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:33 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:33 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:33 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:34 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:34 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:34 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:35 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:35 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:35 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:36 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:36 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:36 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:37 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:37 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:37 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:38 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:38 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:38 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:39 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:39 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:39 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:40 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:40 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:40 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:41 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:41 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:41 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:42 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:42 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:42 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:43 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:43 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:43 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:44 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:44 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:44 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:45 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:45 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:45 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:46 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:46 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:46 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:47 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:47 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:47 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:48 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:48 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:48 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:49 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:49 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:49 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:50 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:50 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:50 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:51 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:51 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:51 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:20:52 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:20:52 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:20:52 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:21:18 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:21:18 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:21:18 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:21:19 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:21:19 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:21:19 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:21:20 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:21:20 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:21:20 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:21:59 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:21:59 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:21:59 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:00 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:00 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:00 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:01 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:01 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:01 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:02 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:02 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:02 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:03 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:03 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:03 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:04 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:04 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:04 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:05 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:05 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:05 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:06 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:06 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:06 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:07 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:07 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:07 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:08 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:08 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:08 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:09 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:09 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:09 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:10 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:10 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:10 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:11 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:11 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:11 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:12 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:12 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:12 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:15 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:15 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:15 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:16 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:16 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:16 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:17 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:17 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:17 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:18 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:18 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:18 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:19 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:19 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:19 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:20 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:20 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:20 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:21 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:21 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:21 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:22 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:22 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:22 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:23 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:23 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:23 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:24 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:24 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:24 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:25 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:25 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:25 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:26 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:26 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:26 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:27 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:27 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:27 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:28 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:28 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:28 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:29 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:29 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:29 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:30 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:30 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:30 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:31 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:31 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:31 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:32 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:32 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:32 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:33 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:33 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:33 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:34 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:34 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:34 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:35 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:35 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:35 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:36 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:36 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:36 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:37 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:37 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:37 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:38 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:38 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:38 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:39 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:39 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:39 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:40 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:40 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:40 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:41 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:41 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:41 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:42 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:42 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:42 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:43 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:43 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:43 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:44 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:44 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:44 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:45 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:45 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:45 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:46 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:46 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:46 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:47 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:47 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:47 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:48 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:48 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:48 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:49 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:49 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:49 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:50 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:50 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:50 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:51 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:51 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:51 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:52 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:52 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:52 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:53 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:53 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:53 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:54 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:54 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:54 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:55 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:55 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:55 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:56 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:56 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:56 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:57 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:57 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:57 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:58 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:58 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:58 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:22:59 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:22:59 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:22:59 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:23:00 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:23:00 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:23:00 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:23:01 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:23:01 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:23:01 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:23:02 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:23:02 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:23:02 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:23:03 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:23:03 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:23:03 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:23:04 logger.py[line:<module>:8] DEBUG This is debug message
+2016-06-01 16:23:04 logger.py[line:<module>:9] INFO This is info message
+2016-06-01 16:23:04 logger.py[line:<module>:10] WARNING This is warning message
+2016-06-01 16:24:02 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:02 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:02 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:03 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:03 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:03 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:04 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:04 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:04 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:05 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:05 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:05 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:06 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:06 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:06 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:07 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:07 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:07 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:08 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:08 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:08 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:09 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:09 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:09 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:10 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:10 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:10 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:11 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:11 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:11 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:12 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:12 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:12 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:13 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:13 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:13 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:14 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:14 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:14 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:15 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:15 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:15 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:24:16 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:24:16 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:24:16 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:49 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:49 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:50 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:50 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:51 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:51 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:52 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:52 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:53 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:53 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:54 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:54 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:55 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:55 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:56 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:56 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:57 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:57 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:58 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:58 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:33:59 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:33:59 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:00 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:00 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:01 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:01 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:02 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:02 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:03 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:03 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:04 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:04 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:05 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:05 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:06 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:06 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:07 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:07 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:08 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:08 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:09 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:09 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:10 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:10 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:11 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:11 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:12 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:12 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:13 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:13 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:14 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:14 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:15 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:15 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:16 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:16 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:17 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:17 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:18 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:18 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:19 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:19 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:20 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:20 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:21 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:21 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:22 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:22 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:23 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:23 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:24 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:24 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:25 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:25 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:26 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:26 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:27 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:27 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:28 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:28 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:29 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:29 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:30 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:30 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:31 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:31 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:32 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:32 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:33 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:33 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:34 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:34 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:35 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:35 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:36 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:36 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:37 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:37 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:34:38 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:34:38 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:36:44 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:36:44 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:36:44 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:36:45 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:36:45 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:36:45 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:36:46 logger.py      [line:<module>       :8  ] DEBUG    This is debug message
+2016-06-01 16:36:46 logger.py      [line:<module>       :9  ] INFO     This is info message
+2016-06-01 16:36:46 logger.py      [line:<module>       :10 ] WARNING  This is warning message
+2016-06-01 16:45:16 logger.py      [line:<module>       :10 ] ERROR    'xxxxx'
+2016-06-01 16:45:27 logger.py      [line:<module>       :10 ] ERROR    'xxxxx'
+2016-06-01 16:46:19 logger.py      [line:<module>       :10 ] ERROR    u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"
+2016-06-01 16:46:34 logger.py      [line:<module>       :10 ] ERROR    u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"
+2016-06-01 16:46:50 logger.py      [line:<module>       :10 ] ERROR    u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"
+2016-06-01 16:50:23 logger.py      [line:<module>       :13 ] ERROR    u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"
+Traceback (most recent call last):
+  File "/Users/yuyongpeng/PycharmProjects/fetch/fetchcore/logger.py", line 11, in <module>
+    raise u
+UrlError: u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"
+2016-06-01 16:51:29 logger.py      [line:<module>       :13 ] ERROR    
+Traceback (most recent call last):
+  File "/Users/yuyongpeng/PycharmProjects/fetch/fetchcore/logger.py", line 11, in <module>
+    raise u
+UrlError: u"scheme cannot be empty ! \u53ef\u80fd\u662f\u63d0\u4f9b\u7684url\u89c4\u5219\u4e0d\u5bf9. \u8bf7\u67e5\u770bvar_str_url='%s'\u7684\u503c"

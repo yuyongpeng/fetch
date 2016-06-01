@@ -4,6 +4,7 @@ import urlparse
 
 from yaml import load
 import re
+from fetchcore.logger import logger
 from fetchcore.exception import UrlError
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -56,14 +57,22 @@ class YamlConfigParser:
         query = uparse.query
         fragment = uparse.fragment
         if scheme == "":
-            raise UrlError(u"scheme cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            e = UrlError(u"scheme cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            logger.error(e)
+            raise e
         if hostname == "":
-            raise UrlError(u"hostname cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            e = UrlError(u"hostname cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            logger.error(e)
+            raise e
         if path == "":
-            raise UrlError(u"path cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            e = UrlError(u"path cannot be empty ! 可能是提供的url规则不对. 请查看var_str_url='%s'的值" % var_str_url)
+            logger.error(e)
+            raise e
         sp_list = hostname.split(".")
         if len(sp_list) <= 1:
-            raise UrlError(u"[ %s ] 不是正确的域名,正确的域名使用 '.' 切割后>=2" % hostname)
+            e = UrlError(u"[ %s ] 不是正确的域名,正确的域名使用 '.' 切割后>=2" % hostname)
+            logger.error(e)
+            raise e
         first_level_domain = sp_list[-2] + "." + sp_list[-1]
         domain_analytical_rules = yml[pageparse][website][first_level_domain]
         for rule in domain_analytical_rules:
